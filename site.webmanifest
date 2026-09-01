@@ -1,0 +1,36 @@
+{
+  "name": "RK Web Studio",
+  "short_name": "RK Web Studio",
+  "description": "Custom websites, built from scratch, for brands across Delhi/NCR.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F7F6F3",
+  "theme_color": "#F7F6F3",
+  "lang": "en-IN",
+  "categories": [
+    "business",
+    "design"
+  ],
+  "icons": [
+    {
+      "src": "images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://rkwebstudio.in/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/og-image.jpg</image:loc>
+      <image:title>RK Web Studio — custom websites, built from scratch</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/venaya.webp</image:loc>
+      <image:title>Venaya — luxury fine jewellery e-commerce storefront</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/dilawri.webp</image:loc>
+      <image:title>Dilawri Properties — real estate lead generation site</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/malik.webp</image:loc>
+      <image:title>Malik Advertising — signage studio portfolio site</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/samosa.webp</image:loc>
+      <image:title>Shri Banke Bihari Samose Wale — food brand site</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/ptts.webp</image:loc>
+      <image:title>Public Tourist Taxi Service — taxi booking site</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/style.webp</image:loc>
+      <image:title>Style Hair Unisex Salon — salon booking site</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/avtar.webp</image:loc>
+      <image:title>Avtar Tourist Service — cab rental site</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkwebstudio.in/images/work/jain.webp</image:loc>
+      <image:title>Jain Tour &amp; Travel — travel agency site</image:title>
+    </image:image>
+  </url>
+</urlset>

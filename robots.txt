@@ -1,0 +1,15 @@
+# https://rkwebstudio.in/robots.txt
+User-agent: *
+Allow: /
+
+# CSS, JS and images must stay crawlable or Google cannot render the page
+Allow: /js/
+Allow: /images/
+Allow: /*.css$
+Allow: /*.js$
+
+# no crawl traps on this site
+Disallow: /*?*utm_
+Disallow: /*?*fbclid
+
+Sitemap: https://rkwebstudio.in/sitemap.xml
